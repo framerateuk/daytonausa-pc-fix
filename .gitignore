@@ -1,0 +1,13 @@
+# Only the kit's own files: nothing from the game (a built DaytonaUSA/ folder included) or other
+# downloads
+/*
+!/.gitignore
+!/LICENSE
+!/README.md
+!/build.py
+!/patch_exe.py
+!/disc.py
+!/config/
+!/docs/
+!/steamdeck/
+__pycache__/
